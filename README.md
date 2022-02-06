@@ -42,4 +42,3 @@ Why there is a linear trend in the simulation.
 
 The effects of discrete recall measures on the accuracy of learning rate estimates.
 ![discrete](Plots/discrete_Fig5.png)
-![image](https://user-images.githubusercontent.com/96589432/152689838-3b0c2a9d-e2db-4579-8b5d-c0d9b430cc99.png)
