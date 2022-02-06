@@ -1,6 +1,6 @@
 # Bachelors_Thesis
 
-For a copy or questions feel free message me on [LinkedIn](https://www.linkedin.com/in/paul-hosek-pja/)
+To receive a copy of the thesis or if you have any questions feel free message me on [LinkedIn](https://www.linkedin.com/in/paul-hosek-pja/)
 
 This is the code for my Bachelor's thesis.
 Here, I used maximum likelihood estimation to estimate an individual’s learning rate after a subset of learning.
