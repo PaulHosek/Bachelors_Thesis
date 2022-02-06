@@ -38,7 +38,7 @@ This is code I used to estimate learning rates in a real learning curves from a 
 Entails code to illustrate explanations in the work.
 
 Why there is a linear trend in the simulation.
-![tail](Plots/tail_Fig4.png.png)
+![tail](Plots/tail_Fig4.png)
 
 The effects of discrete recall measures on the accuracy of leanring rate estimates.
-![discrete](Plots/discrete_Fig5.png.png)
+![discrete](Plots/discrete_Fig5.png)
