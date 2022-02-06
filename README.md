@@ -1,4 +1,4 @@
-# Bachelors_Thesis
+# Bachelors_Thesis: "Learning Rate Estimation"
 
 To receive a copy of the thesis or if you have any questions feel free message me on [LinkedIn](https://www.linkedin.com/in/paul-hosek-pja/)
 
